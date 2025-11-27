@@ -8,5 +8,6 @@ namespace ClaseDeDominioPractica
 {
     internal class PasilloComun : Pasillo
     {
+        //agrego este comentario para practicar con github
     }
 }
